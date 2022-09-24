@@ -1,0 +1,17 @@
+.unique-card{
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+.button-x{
+position: absolute;
+right: 0px;
+top: 0px;
+}
